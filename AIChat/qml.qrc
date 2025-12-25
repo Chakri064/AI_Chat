@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Theme.qml</file>
+        <file>ChatBubble.qml</file>
+        <file>MessageInputBar.qml</file>
+        <file>EmojiPicker.qml</file>
+        <file>TypingDots.qml</file>
+    </qresource>
+</RCC>
